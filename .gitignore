@@ -1,0 +1,20 @@
+.exercism/
+out/
+gradle/
+
+# generated files
+build/
+
+# Local configuration file
+.gradle/
+
+# IntelliJ IDEA project files
+
+.idea/
+
+*.ipr
+
+*.iml
+
+# Java class files
+*.class
